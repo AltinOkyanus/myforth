@@ -1,0 +1,2 @@
+# myforth
+deneme4
